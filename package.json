@@ -1,0 +1,22 @@
+{
+  "name": "bank-auto",
+  "version": "1.0.0",
+  "description": "Cheque deposit procedure automated through UiPath",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prathamesh1997/bank-auto.git"
+  },
+  "keywords": [
+    "bank"
+  ],
+  "author": "prathamesh and pinku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathamesh1997/bank-auto/issues"
+  },
+  "homepage": "https://github.com/prathamesh1997/bank-auto#readme"
+}
